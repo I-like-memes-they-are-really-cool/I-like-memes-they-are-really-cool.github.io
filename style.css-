@@ -1,0 +1,12 @@
+body {
+	background-image: url("http://cdn3-www.craveonline.com/assets/uploads/2016/05/Overwatch-Problems-Reaper.gif");
+	color: navy;
+	font-size: 200%;
+	font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+	text-allign: center;
+	font-size: 300%
+} 
+ 
